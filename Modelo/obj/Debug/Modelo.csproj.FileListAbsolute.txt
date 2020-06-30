@@ -1,0 +1,5 @@
+C:\Users\dcice\source\repos\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\dcice\source\repos\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\dcice\source\repos\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\dcice\source\repos\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\dcice\source\repos\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\bin\Debug\DLL.dll
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\bin\Debug\DLL.pdb
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\bin\Debug\DAL.dll
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\bin\Debug\Modelo.dll
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\bin\Debug\DAL.pdb
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\bin\Debug\Modelo.pdb
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\obj\Debug\DLL.dll
+C:\Users\dcice\source\repos\ControleDeEstoque\DLL\obj\Debug\DLL.pdb
